@@ -2,6 +2,6 @@ I plan to write something about market data -- TAQ data (slow but cheap), ITCH d
 More to come.....  
 
 
-Cheers,  
+ 
 Peichen Li
 03/07/2021
